@@ -8,4 +8,4 @@ default: &default
 
 development:
   <<: *default
-  database: pictweet_for_exam4_development
+  database: pictweet_exam2_development
